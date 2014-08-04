@@ -37,7 +37,7 @@
       "targetDirectory": "build",
       "builds": {
         "src": {"digest": false, "minify": false},
-        "min": {"digest": false, "minify": true, "sourceMap": "src", "tag": "suffix"}
+        "min": {"digest": false, "minify": true, "sourceMap": false, "tag": "suffix"}
       },
       "targets": {
         "core": {                 "builds": {"src": false, "min": false},
