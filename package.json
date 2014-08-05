@@ -101,7 +101,6 @@
       "targets": {
         "lib/faye-browser.js":          "build/browser/faye-browser.js",
         "lib/faye-browser-min.js":      "build/browser/faye-browser-min.js",
-        "lib/faye-browser-min.js.map":  "build/browser/faye-browser-min.js.map",
         "build/package.json":           "package.json",
         "build/CHANGELOG.md":           "CHANGELOG.md",
         "build/README.md":              "README.md"
